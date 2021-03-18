@@ -1,0 +1,19 @@
+footer {
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer span {
+    color: #999;
+    margin-top: 5px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    outline: none;
+    text-decoration: none;
+}
